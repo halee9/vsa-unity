@@ -1,0 +1,44 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio / VSCode
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Crash logs
+sysinfo.txt
+
+# Rider
+.idea/
+*.sln.iml
+
+# Packages
+*.package-lock.json
+*.npmrc
+npm-debug.log
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Exclude Audio/Video generated files (optional)
+*.wav
+*.mp4
+*.webm
+*.ogg
